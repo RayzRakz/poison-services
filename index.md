@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="https://user-images.githubusercontent.com/109817205/180502481-b0c3a05e-8081-4f8a-a9a4-2794c93afc93.png">
+
 <h1 align="center">ray's socials</h1>
 
 <a href="https://discord.com/invite/brb"><img src="https://user-images.githubusercontent.com/109817205/180494826-38052d82-665e-46c1-81e9-f4110fbed838.png" alt="discord" style="width:42px;height:42px;"></a>
