@@ -4,4 +4,4 @@
 
 <a href="https://tiktok.com/@xray2rich" target="_blank">tiktok!</a> 
 
-<a href="https://instagram.com/rczxy" target="_blank">instagram!</a> 
+<a href="https://instagram.com/rczxy" target="_blank">instagram!</a>
