@@ -1,6 +1,5 @@
-<h1 align="center">ray's socials</h1>
-
 <p style="background-image: url('https://user-images.githubusercontent.com/109817205/180499962-25ee63c3-2aae-4a1e-8ad6-4c734599e8e9.png');">
+<h1 align="center">ray's socials</h1>
 
 <a href="https://discord.com/invite/brb"><img src="https://user-images.githubusercontent.com/109817205/180494826-38052d82-665e-46c1-81e9-f4110fbed838.png" alt="discord" style="width:42px;height:42px;"></a>
 
