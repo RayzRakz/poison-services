@@ -1,3 +1,6 @@
+<html>
+<body>
+ 
 <link rel="shortcut icon" type="image/png" href="https://user-images.githubusercontent.com/109817205/180502481-b0c3a05e-8081-4f8a-a9a4-2794c93afc93.png">
 
 <h1 align="center">ray's socials</h1>
@@ -8,3 +11,8 @@
 
 <a href="https://instagram.com/rczxy"><img src="https://user-images.githubusercontent.com/109817205/180495692-f133dff9-36f5-4e00-a1fb-09d4a3b6b797.png" alt="instagram" style="width:40px;height:40px;"></a>
 
+<button>Click me</button>
+
+
+</body>
+</html>
